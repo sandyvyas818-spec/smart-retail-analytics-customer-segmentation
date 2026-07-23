@@ -205,6 +205,36 @@ jupyter notebook
 
 ---
 
+## 📸 Business Dashboard
+
+![Business Dashboard](business_dashboard.png)
+
+---
+
+## 📈 Elbow Method
+
+![Elbow Method](elbow_method.png)
+
+---
+
+## 🤖 PCA Customer Segmentation
+
+![PCA](pca_customer_segmentation.png)
+
+---
+
+## 👥 RFM Customer Segments
+
+![RFM](rfm_customer_segments.png)
+
+---
+
+## 💰 Top Customers by Revenue
+
+![Top Customers](top_customers.png)
+
+---
+
 # 👨‍💻 Author
 
 **Sandeep Vyas**
